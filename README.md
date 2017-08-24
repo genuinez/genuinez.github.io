@@ -23,122 +23,126 @@
             </td>
             <td style="text-align: right"><img src="https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="120" width="100" alt="" /></td>
         </tr>
-    </tbody
-</table>
-
-<div class="main_content">
-<table>
-    <tbody>
+        
         <tr>
-            <td class="main_title">教育背景</td>
+            <div>
+                <div class="main_content">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="main_title">教育背景</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+
+                <hr size="1" color="#979797" width="100%" />
+                <div class="main_detail">
+                <ul>
+                    <li><span>2016-9至今</span><span>华中科技大学</span><span>电信学院</span><span>信息与通信工程</span><span>硕士</span></li>
+                    <li><span>2012-9至2016-6</span><span>海南大学</span><span>信息学院</span><span>计算机科学与技术</span><span>学士<br />
+                        </span></li>
+                </ul>
+                </div>
+
+                <div class="main_content">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="main_title">研究方向</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+
+                <hr size="1" color="#979797" width="100%" />
+                <div class="main_detail">
+                    <ul>
+                        <li><span style="font-size:9.0pt;font-family:宋体;
+                    mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+                    mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+                    EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">数据库与数据挖掘。</span></span></li>
+                        <li><span><span style="font-size:9.0pt;font-family:宋体;
+                    mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+                    mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+                    EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">计算机网络。</span></span></li>
+                        <li><span><span style="font-size:9.0pt;font-family:&quot;Times New Roman&quot;,serif;
+                    mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;
+                    mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA" lang="EN-US">Java EE</span><span style="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;
+                    mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+                    mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+                    mso-bidi-language:AR-SA">企业开发框架技术</span>。</span></li>
+                </ul>
+                </div>
+
+                <div class="main_content">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="main_title">项目经历</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+
+
+                <hr size="1" color="#979797" width="100%" />
+                <div class="main_detail">
+                <ol>
+                    <li><span class="time1">2016-07至今</span><span class="name1">DBA与服务器</span><br />
+                    <span>本人职责：负责数据库与服务器的运行与维护。</span></li>
+                    <li><span class="time1">2015-12至2016-04</span><span class="name1">商城系统设计模式的研究与实现</span><br />
+                    <span>本人职责：从需求分析、系统设计、代码实现到测试维护全程独立开发。</span></li>
+                </ol>
+                </div>
+
+                <div class="main_content">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="main_title">专业技能</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+
+                <hr size="1" color="#979797" width="100%" />
+                <div class="main_detail">
+                <ol>
+                    <li><span>熟练Java EE项目开发，熟悉各种主流框架的使用及其设计思想。</span></li>
+                    <li><span>熟悉linux操作系统与数据库。</span></li>
+                </ol>
+                </div>
+
+                <div class="main_content">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="main_title">自我评价</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+
+                <hr size="1" color="#979797" width="100%" />
+                <div class="main_detail">
+                <ol>
+                    <li><span style="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;
+                    mso-hansi-font-family:&quot;Times New Roman&quot;">在校期间学习非常勤奋，专业理论知识很扎实；</span></li>
+                    <li><span style="font-size:9.0pt;
+                    font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+                    &quot;Times New Roman&quot;">有较好的沟通能力和业务处理能力，同时培养了很强的责任意识；</span></li>
+                    <li><span style="font-size:9.0pt;font-family:
+                    宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;">有较好的动手实践能力；</span></li>
+                    <li><span style="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;
+                    mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+                    mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+                    mso-bidi-language:AR-SA">遇到问题善于独立思考，乐于钻研，平时也经常自我反省以不断完善自己。</span></li>
+                </ol>
+                </div>
+
+                <p>&nbsp;</p>
+                </div>
         </tr>
     </tbody>
 </table>
-</div>
-    
-<hr size="1" color="#979797" width="100%" />
-<div class="main_detail">
-<ul>
-    <li><span>2016-9至今</span><span>华中科技大学</span><span>电信学院</span><span>信息与通信工程</span><span>硕士</span></li>
-    <li><span>2012-9至2016-6</span><span>海南大学</span><span>信息学院</span><span>计算机科学与技术</span><span>学士<br />
-        </span></li>
-</ul>
-</div>
-
-<div class="main_content">
-<table>
-    <tbody>
-        <tr>
-            <td class="main_title">研究方向</td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-<hr size="1" color="#979797" width="100%" />
-<div class="main_detail">
-    <ul>
-        <li><span style="font-size:9.0pt;font-family:宋体;
-    mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-    mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
-    EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">数据库与数据挖掘。</span></span></li>
-        <li><span><span style="font-size:9.0pt;font-family:宋体;
-    mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-    mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
-    EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">计算机网络。</span></span></li>
-        <li><span><span style="font-size:9.0pt;font-family:&quot;Times New Roman&quot;,serif;
-    mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;
-    mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA" lang="EN-US">Java EE</span><span style="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;
-    mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-    mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
-    mso-bidi-language:AR-SA">企业开发框架技术</span>。</span></li>
-</ul>
-</div>
-
-<div class="main_content">
-<table>
-    <tbody>
-        <tr>
-            <td class="main_title">项目经历</td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-
-<hr size="1" color="#979797" width="100%" />
-<div class="main_detail">
-<ol>
-    <li><span class="time1">2016-07至今</span><span class="name1">DBA与服务器</span><br />
-    <span>本人职责：负责数据库与服务器的运行与维护。</span></li>
-    <li><span class="time1">2015-12至2016-04</span><span class="name1">商城系统设计模式的研究与实现</span><br />
-    <span>本人职责：从需求分析、系统设计、代码实现到测试维护全程独立开发。</span></li>
-</ol>
-</div>
-
-<div class="main_content">
-<table>
-    <tbody>
-        <tr>
-            <td class="main_title">专业技能</td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-<hr size="1" color="#979797" width="100%" />
-<div class="main_detail">
-<ol>
-    <li><span>熟练Java EE项目开发，熟悉各种主流框架的使用及其设计思想。</span></li>
-    <li><span>熟悉linux操作系统与数据库。</span></li>
-</ol>
-</div>
-
-<div class="main_content">
-<table>
-    <tbody>
-        <tr>
-            <td class="main_title">自我评价</td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-<hr size="1" color="#979797" width="100%" />
-<div class="main_detail">
-<ol>
-    <li><span><span style="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;
-    mso-hansi-font-family:&quot;Times New Roman&quot;">在校期间学习非常勤奋，专业理论知识很扎实；</span></li>
-    <li><span style="font-size:9.0pt;
-    font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-    &quot;Times New Roman&quot;">有较好的沟通能力和业务处理能力，同时培养了很强的责任意识；</span></li>
-    <li><span style="font-size:9.0pt;font-family:
-    宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;">有较好的动手实践能力；</span></li>
-    <li><span style="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;
-    mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-    mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
-    mso-bidi-language:AR-SA">遇到问题善于独立思考，乐于钻研，平时也经常自我反省以不断完善自己。</span></li>
-</ol>
-</div>
-
-<p>&nbsp;</p>
