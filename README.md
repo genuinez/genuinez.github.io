@@ -1,6 +1,6 @@
 <table class="basic_table" cellspacing="0" cellpadding="0" border="0" width="100%">
     <tbody>
-        <tr style="font-size:9.0pt;font-family:宋体">
+        <tr style="font-size:10.0pt;font-family:宋体">
             <td class="basic_td1">
                 <ul>
                     <li><span class="basic_name">赵恢强</span>&nbsp; <span>硕士<br />
@@ -21,7 +21,7 @@
                     <li><span>办公电话：027-87558397</span></li>
                 </ul>
             </td>
-            <td style="text-align: right"><img src="https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="100" width="80" alt="" /></td>
+            <td style="text-align: right"><img src="https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="120" width="100" alt="" /></td>
         </tr>
     </tbody>
 </table>
