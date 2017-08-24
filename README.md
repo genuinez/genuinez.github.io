@@ -1,46 +1,5 @@
 
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 	
-		<head>
-			
-		</head>
-
-		<body>
-			
-
-
-	<script type="text/javascript">
-		if (parent.window.location != window.location){
-			parent.window.location = window.location;
-		}
-	</script>
-	<div class="header">
-		<div class="top_css"><img src="image/top.jpg" /></div>
-		<div class="menu_bar">
-			<div class="menu">
-				<ul>
-					<li><a href="toIndex.action">首　页</a></li>
-					<li><a href="notice/listNotice.action?status=outer">通知公告</a></li>
-					<li><a href="news/listNews.action?status=outer">热点新闻</a></li>
-					<li><a href="alumnilist/alumniList.action?status=outer">校友录</a></li>
-					<li><a href="msgboard/listMessage.action?status=outer">留言板</a></li>
-					<li><a href="toAbout.action">关于我们</a></li>
-					<li></li>
-				</ul>
-			</div>
-			<div class="lang">
-				<img src="image/ico01.gif" />
-				
-				
-					<a href="toIndex.action?request_locale=en_US">English</a>
-				
-			</div>
-		</div>
-	</div>
 
 			<div class="content">
 				
@@ -2149,9 +2108,7 @@ p {margin: 0; text-indent: 2em;line-height:22px;}</style></p>
 </div>
 <p>&nbsp;</p></td>
 						</tr>
-						<tr>
-							<td class="txtpadding"><div class="g_txt2 log_txt"><i>[更新时间&nbsp;&nbsp;2017-04-21 20:38:17]</i></div></td>
-						</tr>
+						
 					</table>
 				
 			</div>
