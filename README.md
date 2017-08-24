@@ -54,7 +54,7 @@ p {margin: 0; text-indent: 2em;line-height:22px;}</style></p>
                 <li><span>办公电话：027-87558397</span></li>
             </ul>
             </td>
-            <td style="text-align: right"><img src="/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="140" width="112" alt="" /></td>
+            <td style="text-align: right"><img src="https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="140" width="112" alt="" /></td>
         </tr>
         <tr>
             <td style="padding-top: 10px" colspan="3"><!--[if gte mso 9]><xml>
