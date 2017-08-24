@@ -1,6 +1,6 @@
 <table class="basic_table" cellspacing="0" cellpadding="0" border="0" width="100%">
     <tbody>
-        <tr>
+        <tr style="font-size:9.0pt;font-family:宋体">
             <td class="basic_td1">
                 <ul>
                     <li><span class="basic_name">赵恢强</span>&nbsp; <span>硕士<br />
@@ -62,7 +62,7 @@
             <li><span style="font-size:9.0pt;font-family:宋体;
         mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
         mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
-        EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">数据库与数据挖掘。</span></span></li>
+        EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">数据库与数据挖掘。</span></li>
             <li><span><span style="font-size:9.0pt;font-family:宋体;
         mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
         mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
