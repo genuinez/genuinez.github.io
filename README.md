@@ -2,26 +2,26 @@
     <tbody>
         <tr>
             <td class="basic_td1">
-            <ul>
-                <li><span class="basic_name">赵恢强</span>&nbsp; <span>硕士<br />
-                </span></li>
-                <li><span>性别：男<br />
-                </span></li>
-                <li><span>籍贯：湖北咸宁<br />
-                </span></li>
-                <li><span>邮箱：346091714<img src="/image/at.gif" alt="" />qq.com<br />
-                </span></li>
-            </ul>
-            </td>
+                <ul>
+                    <li><span class="basic_name">赵恢强</span>&nbsp; <span>硕士<br />
+                    </span></li>
+                    <li><span>性别：男<br />
+                    </span></li>
+                    <li><span>籍贯：湖北咸宁<br />
+                    </span></li>
+                    <li><span>邮箱：346091714@qq.com<br />
+                    </span></li>
+                </ul>
+            </td> 
             <td class="basic_td2">
-            <ul>
-                <li><span>出生年月：1993-08</span></li>
-                <li><span>政治面貌：中共党员<br />
-                </span></li>
-                <li><span>办公电话：027-87558397</span></li>
-            </ul>
+                <ul>
+                    <li><span>出生年月：1993-08</span></li>
+                    <li><span>政治面貌：中共党员<br />
+                    </span></li>
+                    <li><span>办公电话：027-87558397</span></li>
+                </ul>
             </td>
-            <td style="text-align: right"><img src="https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="120" width="100" alt="" /></td>
+            <td style="text-align: right"><img src="https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG" class="imgline" height="100" width="80" alt="" /></td>
         </tr>
     </tbody>
 </table>
