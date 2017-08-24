@@ -39,11 +39,11 @@
 
     <hr size="1" color="#979797" width="100%" />
     <div class="main_detail">
-    <ul>
+    <ol>
         <li><span>2016-9至今</span><span>华中科技大学</span><span>电信学院</span><span>信息与通信工程</span><span>硕士</span></li>
         <li><span>2012-9至2016-6</span><span>海南大学</span><span>信息学院</span><span>计算机科学与技术</span><span>学士<br />
             </span></li>
-    </ul>
+    </ol>
     </div>
 
     <div>
@@ -58,11 +58,11 @@
 
     <hr size="1" color="#979797" width="100%" />
     <div class="main_detail">
-        <ul>
+        <ol>
             <li><span>数据库与数据挖掘;</span></li>
             <li><span>计算机网络;</span></li>
             <li><span>Java EE</span><span>企业开发框架技术。</span></li>
-    </ul>
+    </ol>
     </div>
 
     <div>
